@@ -9,12 +9,11 @@
 
 - ⚡ Fun fact **I am making some music as well**
 
-<h3 align="left">Connect with me: Fumea#1349 </h3>
+<h3 align="left">Connect with me: bit.ly/3zsdQSv </h3>
 <p align="left">
 <a href="https://twitter.com/fumea_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fumea_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fumea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fumea" height="30" width="40" /></a>
 <a href="https://discord.gg/kvUCvuJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kvUCvuJ" height="30" width="40" /></a>
-<a href="bit.ly/3zsdQSv">Click for more information</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
