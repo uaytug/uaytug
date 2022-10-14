@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/fumea_" target="blank"><img src="https://img.shields.io/twitter/follow/fumea_?logo=twitter&style=for-the-badge" alt="fumea_" /></a> </p>
 
-- 🔭 I’m currently working on **Discord Music Bot**
+- 🔭 I’m currently working on **Multifunctional Discord Bot**
 
-- 🌱 I’m currently learning **Blockchain and Kotlin**
+- 🌱 I’m currently learning **Cyber Security & C++**
 
 - ⚡ Fun fact **I am making some music as well**
 
