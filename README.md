@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on secure ad-blocker for chromium.<br>🤝 I’m looking for help about life. <br>🌱 I’m currently learning offensive cyber security, game moding and how to quit vim.<br>💬 Ask me about anything you want.<br>⚡ Fun fact I used to produce EDM music and play water polo.
+🔭 I’m currently working on secure ad-blocker for chromium based browsers and building 2nd version of my website.<br>🤝 I’m looking for help about life. <br>🌱 I’m currently learning offensive cyber security, game moding and how to quit vim.<br>💬 Ask me about anything you want.<br>⚡ Fun fact I used to produce EDM music and play water polo.
 
 
 ## 🌐 Socials:
