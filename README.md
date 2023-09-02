@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on secure ad-blocker for chromium based browsers and building 2nd version of my website.<br>🤝 I’m looking for help about life. <br>🌱 I’m currently learning offensive cyber security, osint, game moding and how to quit vim.<br>💬 You can ask me about anything you want.<br>⚡ Fun fact I used to produce EDM music and play water polo.
+🔭 I’m currently working on multi functional personal personal information/portfolio web site.<br>🤝 I’m looking for help about life. <br>🌱 I’m currently learning cyber security & osint <br>💬 You can ask me about anything you want.<br>⚡ Fun fact I used to produce EDM music and play water polo.
 
 
 ## 🌐 Socials:
@@ -14,14 +14,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uaytug&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Fumea_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=uaytug&icon=1&color=0)](https://visitcount.itsvg.in)
-
 
