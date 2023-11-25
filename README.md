@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **fumea@duck.com**
 
-- 📄 Know about my experiences [https://www.uaytug.dev/assets/Resume.pdf](https://www.uaytug.dev/assets/Resume.pdf)
+- 📄 Know about my experiences [Here is my resume](https://www.uaytug.dev/assets/Resume.pdf)
 
 - ⚡ Fun fact **I can't quit vim**
 
