@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **[Click Me](fumea@duck.com)**
+- 📫 How to reach me **[Click Me](mailto:fumea@duck.com)**
 
 - 📄 Know about my experiences [Here is my resume](https://www.uaytug.dev/assets/Resume.pdf)
 
