@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uaytug" alt="uaytug" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Network & Cybersecurity**
+- 🔭 I’m currently working on **Making Local Greengrocery Shoping APP**
 
 - 🌱 I’m currently learning **Offensive Cybersecurity**
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [uaytug.dev](uaytug.dev)
 
-- 💬 Ask me about **Network & Cybersecurity**
+- 💬 Ask me about **anything**
 
-- 📫 How to reach me **fumea@duck.com**
+- 📫 How to reach me **[Click Me](fumea@duck.com)**
 
 - 📄 Know about my experiences [Here is my resume](https://www.uaytug.dev/assets/Resume.pdf)
 
