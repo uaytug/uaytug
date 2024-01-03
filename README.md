@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Offensive Cybersecurity**
 
-- 👯 I’m looking to collaborate on [HTML Request Tester](https://github.com/OGCfumea/HttpTest)
+- 👯 I’m looking to collaborate on [HTML Request Tester](https://github.com/uaytug/HTTPTester)
 
 - 🤝 I’m looking for help with [DcBell (Discord Music Bot)](https://github.com/uaytug/DcBell-beta-public)
 
