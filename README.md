@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aytuğ</h1>
-<h3 align="center">3rd Grade Computer Engineering Student</h3>
+<h3 align="center">4th Grade Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uaytug&label=Profile%20views&color=0e75b6&style=flat" alt="uaytug" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **[Click Me](mailto:fumea@duck.com)**
+- 📫 How to reach me **[Click Me](mailto:mail@uaytug.dev)**
 
 - 📄 Know about my experiences [Here is my resume](https://www.uaytug.dev/assets/Resume.pdf)
 
