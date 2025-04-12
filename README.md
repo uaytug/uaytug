@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uaytug" alt="uaytug" /></a> </p>
 
-- 🔭 I’m currently working on **Making Online Video Downloading API**
+- 🔭 I’m currently working on **Machine learning based Heuristic Intrusion Detection and Prevention System**
 
-- 🌱 I’m currently learning **Offensive Cybersecurity**
+- 🌱 I’m currently learning **RUST & DefSec**
 
-- 👯 I’m looking to collaborate on [HTML Request Tester](https://github.com/uaytug/HTTPTester)
-
-- 🤝 I’m looking for help with [DcBell (Discord Music Bot)](https://github.com/uaytug/DcBell-beta-public)
+- 🤝 I’m looking for help with [NeuroDefender ML-HIPDS](https://github.com/uaytug/ipds)
 
 - 👨‍💻 All of my projects are available at [uaytug.dev](uaytug.dev)
 
