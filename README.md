@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine learning based Heuristic Intrusion Detection and Prevention System**
 
-- 🌱 I’m currently learning **RUST & DefSec**
+- 🌱 I’m currently learning **RUST**
 
 - 🤝 I’m looking for help with [NeuroDefender ML-HIPDS](https://github.com/uaytug/ipds)
 
