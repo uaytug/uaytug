@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [NeuroDefender ML-HIPDS](https://github.com/uaytug/ipds)
 
-- 👨‍💻 All of my projects are available at [uaytug.dev](uaytug.dev)
+- 👨‍💻 All of my projects are available at [uaytug.dev](https://www.uaytug.dev)
 
 - 💬 Ask me about **anything**
 
