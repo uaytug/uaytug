@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **RUST**
 
-- 🤝 I’m looking for help with [NeuroDefender ML-HIPDS](https://github.com/uaytug/ipds)
+- 🤝 I’m looking for help with [NeuroDefender ML-HIPDS](https://github.com/uaytug/neurodefender)
 
 - 👨‍💻 All of my projects are available at [uaytug.dev](https://www.uaytug.dev)
 
