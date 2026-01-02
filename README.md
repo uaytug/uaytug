@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aytuğ</h1>
-<h3 align="center">4th Grade Computer Engineering Student</h3>
+<h3 align="center">Jr System Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uaytug&label=Profile%20views&color=0e75b6&style=flat" alt="uaytug" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uaytug" alt="uaytug" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning based Heuristic Intrusion Detection and Prevention System**
+- 🔭 I’m currently working on **UCoder-14b LLM model**
 
-- 🌱 I’m currently learning **RUST**
-
-- 🤝 I’m looking for help with [NeuroDefender ML-HIPDS](https://github.com/uaytug/neurodefender)
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [uaytug.dev](https://www.uaytug.dev)
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **[Click Me](mailto:mail@uaytug.dev)**
 
 - 📄 Know about my experiences [Here is my resume](https://www.uaytug.dev/assets/Resume.pdf)
-
-- ⚡ Fun fact **I can't quit vim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
